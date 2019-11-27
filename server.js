@@ -6,7 +6,7 @@ app.listen(1234,()=>{
 });
 
 app.get("/",()=>{
-    console.log("This is git file");
+    console.log("This is Git  file");
 });
 
 app.get("/",()=>{
